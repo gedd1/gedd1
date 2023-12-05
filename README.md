@@ -3,7 +3,6 @@
 
 - 👯 I’m looking to collaborate on **any project that interests me.**
 
-- 📫 How to reach me **ibrahim.karaca@ug.bilkent.edu.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
