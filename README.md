@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm İbrahim Ayaz Karaca</h1>
+<h1 align="center">Hi 👋, I'm İbrahim Karaca</h1>
 <h3 align="center">A computer engineering student at Bilkent University, highly interested in AI and math.</h3>
 
 - 👯 I’m looking to collaborate on **any project that interests me.**
